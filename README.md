@@ -1,5 +1,3 @@
-# ChocoCrunch-_Analytics
-SQLite, Python, Power BI project analyzing nutritional data for Chococrunch products.
 
 ---
 
@@ -16,6 +14,8 @@ SQLite, Python, Power BI project analyzing nutritional data for Chococrunch prod
 
 ##  Getting Started
 
+### 1. Clone the Repository
+```bash
+git clone https://github.com/yourusername/chococrunch-analytics.git
 pip install -r requirements.txt
 ../data/nutrition.db
-
