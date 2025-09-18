@@ -3,11 +3,11 @@
 
 ##  Dashboard Highlights
 
-- Brand-wise product distribution
-- Nutrient trends across calorie categories
-- Sugar-to-carb ratio analysis
-- Ultra-processed product flags
-- Interactive slicers and KPI cards
+- Product distributions
+- Calorie Categories Insights
+- NOVA classification analysis
+- KPI cards
+-Brand-Level Comparisons
 
 
 ---
@@ -19,3 +19,4 @@
 git clone https://github.com/yourusername/chococrunch-analytics.git
 pip install -r requirements.txt
 ../data/nutrition.db
+
